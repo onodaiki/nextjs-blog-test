@@ -39,7 +39,7 @@ export default function Home({ allPostsData }: any) {
         </p>
       </section>
       <section className={`${utilStyle.headingMd} ${utilStyle.padding1px}`}>
-        <h2>📃muscle college blog📃</h2>
+        <h2>📃muscle Daiki blog📃</h2>
         <div className={styles.grid}>
           {allPostsData.map(
             ({
